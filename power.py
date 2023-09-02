@@ -1,0 +1,9 @@
+a=10
+b=5
+c=1
+z=a**c/b
+print(z)
+a=a+c-b
+print(a)
+y=a+c
+print(y)
